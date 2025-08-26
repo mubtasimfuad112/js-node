@@ -9,5 +9,9 @@ console.log(userID);
 
 let Phone;
 
+/*
+Dont use var
+*/
+
 userPassword = " 0987654321";
 console.table([userID, userEmail, userPassword, userCity, Phone]);
